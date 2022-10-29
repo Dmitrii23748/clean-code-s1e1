@@ -18,11 +18,10 @@ body {
 }
 
 @media (max-width: 768px) {
-
   .head {
     text-align: center;
+    display: block;
   }
-
 }
 .main-page-element {
   display: block;
@@ -132,12 +131,10 @@ button.delete img:hover {
   transform: rotateZ(0);
 }
 
-
 #completed-tasks label {
   text-decoration: line-through;
   color: #888;
 }
-
 
 ul li input[type="text"] {
   display: none;
