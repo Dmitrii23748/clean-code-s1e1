@@ -22,7 +22,7 @@ body {
   .head {
     text-align: center;
   }
-  
+
 }
 .main-page-element {
   display: block;
@@ -138,7 +138,7 @@ button.delete img:hover {
   color: #888;
 }
 
-/* Edit Task */
+
 ul li input[type="text"] {
   display: none;
 }
